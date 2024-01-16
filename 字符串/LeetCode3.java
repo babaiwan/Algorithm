@@ -1,5 +1,5 @@
 import java.util.HashSet;
-public class Solution {
+public class LeetCode3 {
 	public static void main(String []args) {
 	String s="abcabcbb";
 	System.out.println(lengthOfLongestSubstring(s));
